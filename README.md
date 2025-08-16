@@ -2,14 +2,14 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Atualmente estou cursando o último ano do Ensimo Médio e recentemente concluí o curso da Barracred Conecta".
+Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Atualmente estou cursando o último ano do Ensimo Médio e recentemente concluí o curso da Barracred Conecta.
 
 <p align="left">
     <a href="https://github.com/ClaraTesser-HUB">
         <img 
             alt="Perfil no GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github.com/ClaraTesser-HUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/ClaraTesser-HUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
