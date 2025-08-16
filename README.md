@@ -4,16 +4,13 @@
 
 Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Estou cursando o último ano do Ensimo Médio. Já participei de diversos projetos como o intercâmbio para jovens líderes promovido pela LALA - Latin American Leadership Academy, com imersão de quatro dias para depois você ingressar na comuinidade, conhecida como LALÍDER; fiz parte da Terceira Turma do curso Barracred Conecta com 1.000 horas de aprendizados, tendo como componentes de educação T.I (Tecnologia da Informação), Inglês e Habilidades Socioemocionais.
 
-<p align="left"
-    <a href="https://www.linkedin.com/in/jonah-lawrence/">
-        <img 
-        width="32px" 
-        alt="LinkedIn" 
-        title="LinkedIn" 
-        src="https://i.imgur.com/yRpa1dQ.png"&#8287;&#8287;&#8287;&#8287;&#8287;
-    />
-  </a>
-</p>
+<div align=center>
+  <p>Minhas Redes Sociais</p>
+<a href="https://www.linkedin.com/in/clara-tesser-08a6ba261/" target="_blank"><img alt="LINKEDIN-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://github.com/ClaraTesser-HUB" target="_blank"><img alt="GITHUB-logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+<a href="mailto:pro.claratesserpereira@gmail.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
+    
+</div>
 
 ---
 
