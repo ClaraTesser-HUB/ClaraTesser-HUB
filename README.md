@@ -73,18 +73,3 @@ Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Prog
   />
 
 </p>
-
-##
-  
-<div align=center>
-  
- <img src="https://raw.githubusercontent.com/ClaraTesser-HUB/claratesser-hub/output/snake.svg" alt="Snake animation" />
-  
-</div>
-  
-## 
-  
-<div align="center">
-<br><p align="centre"><b>Commits</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{claratesser-hub}/count.svg" /></p> 
-<br></div>
