@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Estou cursando o último ano do Ensimo Médio. Já participei de diversos projetos como o intercâmbio para jovens líderes promovido pela LALA - Latin American Leadership Academy, com imersão de quatro dias para depois você ingressar na comuinidade, conhecida como LALÍDER; fiz parte da Terceira Turma do curso Barracred Conecta com 1.000 horas de aprendizados, tendo como componentes de educação T.I (Tecnologia da Informação), Inglês e Habilidades Socioemocionais.
+Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Estou cursando o último ano do Ensimo Médio. Já participei de diversos projetos como o intercâmbio para jovens líderes promovido pela LALA - Latin American Leadership Academy, com imersão de quatro dias em inglês para depois você ingressar na comuinidade, conhecida como LALÍDER; fiz parte da Terceira Turma do curso Barracred Conecta com 1.000 horas de aprendizados, tendo como componentes de educação T.I (Tecnologia da Informação), Inglês e Habilidades Socioemocionais.
 
 <div align=center>
   <p>Minhas Redes Sociais</p>
@@ -74,9 +74,17 @@ Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Prog
 
 </p>
 
+##
+  
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/ClaraTesser-HUB/claratesser-hub/output/snake.svg" alt="Snake animation" />
+  
+</div>
+  
 ## 
   
 <div align="center">
 <br><p align="centre"><b>Commits</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaraTesser-HUB}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{claratesser-hub}/count.svg" /></p> 
 <br></div>
