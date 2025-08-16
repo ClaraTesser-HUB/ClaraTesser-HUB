@@ -73,3 +73,10 @@ Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Prog
   />
 
 </p>
+
+## 
+  
+<div align="center">
+<br><p align="centre"><b>Commits</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaraTesser-HUB}/count.svg" /></p> 
+<br></div>
