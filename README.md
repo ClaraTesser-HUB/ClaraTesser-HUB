@@ -2,9 +2,9 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Atualmente estou cursando o último ano do Ensimo Médio e recentemente concluí o curso da Barracred Conecta.
+Me chamo Clara Tesser Pereira, tenho 18 anos e estou começando na área de Programação. Estou cursando o último ano do Ensimo Médio. Já participei de diversos projetos como o intercâmbio para jovens líderes promovido pela LALA - Latin American Leadership Academy, com imersão de quatro dias para depois você ingressar na comuinidade, conhecida como LALÍDER; fiz parte da Terceira Turma do curso Barracred Conecta com 1.000 horas de aprendizados, tendo como componentes de educação T.I (Tecnologia da Informação), Inglês e Habilidades Socioemocionais.
 
-<p align="center"
+<p align="left"
     <a href="https://www.linkedin.com/in/jonah-lawrence/">
         <img 
         width="32px" 
